@@ -5,10 +5,10 @@ This folder keeps the small, official Waveshare overlay package needed to config
 ## Files
 
 - [`3.5HDMI_E_DTBO.zip`](3.5HDMI_E_DTBO.zip) — original Waveshare archive, preserved with its upstream filename.
-- [`driver-files/3.5HDMI_E_DTBO/`](driver-files/3.5HDMI_E_DTBO/) — extracted upstream files:
+- [`driver-files/3.5HDMI_E_DTBO/`](driver-files/3.5HDMI_E_DTBO/)
   `waveshare-35dpi-3b.dtbo`, `waveshare-35dpi-4b.dtbo`, and `waveshare-35dpi-5b.dtbo`.
 
-For a Raspberry Pi 4B, use `waveshare-35dpi-4b.dtbo`. Do not install the 3B or 5B overlay on a Pi 4B.
+For a Raspberry Pi 4B, use `waveshare-35dpi-4b.dtbo`.
 
 ## Basic setup
 
