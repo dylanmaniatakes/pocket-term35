@@ -1,4 +1,4 @@
-**_Notes for Video:_**
+**_Notes for Video: <https://youtu.be/em6dtg2cm3M>_**
 
 
 # PocketTerm35
